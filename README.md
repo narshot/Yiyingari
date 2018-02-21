@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to YiyinGari 
 
 You can use the [editor on GitHub](https://github.com/narshot/Yiyingari/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+This project aims to create a webpage called as "Yiyingari" which serves as an online restaurant ordering system. Our motivation is to provide a service for restaurants to take online order from the website.
 
 ### Markdown
 
